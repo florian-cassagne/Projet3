@@ -1,0 +1,7 @@
+STATE q0 q1 q2
+LANGUAGE 0 1
+INITIAL q0
+FINAL q2
+q0 q1 1 0 R
+q1 q1 0 1 R
+q1 q2 1 0 R

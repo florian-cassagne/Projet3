@@ -1,0 +1,11 @@
+STATE q0 q1 q2 q3 q4
+LANGUAGE a b
+INITIAL q0
+FINAL q4
+q0 q1 ■ ■ R
+q1 q1 b b R
+q1 q2 a a R
+q2 q2 a a R
+q2 q3 b b R
+q3 q1 b b R
+q3 q4 b b R

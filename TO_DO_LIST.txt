@@ -1,0 +1,9 @@
+-Fichier MT : Gestion des erreurs d'écriture pour INITIAL et FINAL
+
+-Détecter si non déterministe et renvoyer erreur
+
+-Fonction de validation des transitions
+
+-Détection état final et validation du mot
+
+-
